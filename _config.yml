@@ -1,0 +1,8 @@
+name:         André Dumas
+description:  Site for Andre Dumas. Technology professional, musician.
+url:          http://andredumas.id.au
+
+markdown:     redcarpet
+pygments:     true
+encoding:     UTF-8
+exclude:      [Vagrantfile, cookbooks, README.md]
